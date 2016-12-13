@@ -1,0 +1,76 @@
+body {
+background: 1f2f3f;
+margin: 0px;
+}
+
+.text {
+font-family: verdana;
+font-size: 10px;
+}
+
+.title {
+font-family: arial, verdana;
+font-size: 14px;
+}
+
+a { text-decoration: underline; }
+a:link { color: #dddddd; }
+a:active { color: #dddddd; text-decoration: none;}
+a:visited { color: #dddddd; text-decoration: none;}
+a:hover { color: #ffcc00; text-decoration: none;}
+
+a.emenu { text-decoration: none; }
+a.emenu:link { color: #dddddd; }
+a.emenu:active { color: #dddddd; }
+a.emenu:visited { color: #dddddd; }
+a.emenu:hover { color: #ffcc00; }
+.button {  font-family: Tahoma; font-size: 12px; font-weight:bold; background :#425d7a; border-color:1f2f3f; font-style:}
+
+.menu { position:absolute; 
+		visibility:hidden; 
+		background-color: #344E68; 
+		color: black;
+		width: 190px;
+		height: auto;
+		border-style: solid; 
+		border-color: black; 
+		border-width: 0px; 
+		padding: 0px;
+		font-size : 12px;
+		font-family: "arial", "helvetica";
+		font-weight: bold;
+		line-height: 16px;}
+
+
+
+BODY {
+scrollbar-arrow-color:white;
+scrollbar-track-color:#425d7a;
+scrollbar-shadow-color:grey;
+scrollbar-face-color:#1F2F3F;
+scrollbar-highlight-color:#DFD8DF;
+scrollbar-darkshadow-color:black;
+scrollbar-3dlight-color:green;
+background-image: URL(../StockSnap.jpg);
+background-repeat: repeat-y}
+
+	COLOR: #dfd8df; TEXT-DECORATION: none
+}
+A:active {
+	COLOR: #dfd8df; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #ffcc00; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #ffcc00; TEXT-DECORATION: none
+}
+.name {
+	BORDER-RIGHT: #dfd8df 1px solid; BORDER-TOP: #dfd8df 1px solid; FONT-SIZE: 10px; BORDER-LEFT: #dfd8df 1px solid; COLOR: #dfd8df; BORDER-BOTTOM: #dfd8df 1px solid; FONT-FAMILY: verdana; HEIGHT: 16px; BACKGROUND-COLOR: #425d7a
+}
+#name {
+	BORDER-RIGHT: #ffcc00 1px solid; BORDER-TOP: #ffcc00 1px solid; FONT-SIZE: 10px; BORDER-LEFT: #ffcc00 1px solid; COLOR: #ffcc00; BORDER-BOTTOM: #ffcc00 1px solid; FONT-FAMILY: verdana; HEIGHT: 16px; BACKGROUND-COLOR: #425d7a
+}
+.submit {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; FONT-SIZE: 10px; BORDER-LEFT: 0px; COLOR: #ffcc00; BORDER-BOTTOM: 0px; FONT-FAMILY: verdana; HEIGHT: 14px; BACKGROUND-COLOR: #1f2f3f
+}
